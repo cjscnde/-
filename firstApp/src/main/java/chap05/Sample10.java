@@ -17,3 +17,4 @@ public class Sample10 {
         System.out.println(Arrays.deepToString(num2)); //다차원 배열의 출력
     }
 }
+//167페이지
