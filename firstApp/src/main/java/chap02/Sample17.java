@@ -6,5 +6,5 @@ public class Sample17 {
         int num = (int)(Math.random() * 3 + 1);   //JDK 1.8
         System.out.printf("난수 : %d", num);
     }
-
+// *3을 해서 0에서 2까지 값 가져오게 한뒤 1더해서 1~3까지 값으로 변경하여 대입
 }

@@ -9,6 +9,7 @@ public class Sample05 {
         int a = 10;
         int b = 10;
         System.out.println(str1 + " " + str2);
+        
     }
 
 }

@@ -1,5 +1,7 @@
 package chap02;
 
+import java.util.Scanner;
+
 public class Sample11 {
 
     public static void main(String[] args) {
